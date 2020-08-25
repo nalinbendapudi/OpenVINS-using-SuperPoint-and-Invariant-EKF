@@ -3,7 +3,7 @@
 
 This project was cloned from https://github.com/robintzeng/EECS568_team_14_open_vins , which was in turn forked from https://github.com/rpng/open_vins
 
-- Report: 
+- Report: https://github.com/nalinbendapudi/OpenVINS-using-SuperPoint-and-Invariant-EKF/blob/master/Mobile_Robotics_Report.pdf
 - Video Presentation: https://youtu.be/DY8Rjkexh38
 
 ## Introduction
